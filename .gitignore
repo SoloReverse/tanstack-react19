@@ -1,0 +1,14 @@
+!**/glob-import/dir/node_modules
+.DS_Store
+.idea
+.pnpm-store
+*.local
+*.log
+/.vscode/
+/docs/.vitepress/cache
+/packages/vite/LICENSE
+dist
+dist-ssr
+explorations
+node_modules
+.eslintcache
